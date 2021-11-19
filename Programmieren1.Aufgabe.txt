@@ -1,3 +1,3 @@
 Hallo, ich wollte mal meine erste Programmieraufgabe ausprobieren.
 
-Auch wenn ich noch keine ahnung von programieren habe wird es wohl hinhauen
+Auch wenn ich noch keine Ahnung vom programmieren habe, wird es wohl hinhauen.
